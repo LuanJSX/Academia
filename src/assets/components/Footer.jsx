@@ -9,7 +9,7 @@ export const Footer = () => {
         {/* BrandSection */}
         <div>
           <h1 className="text-3xl text-transparent bg-clip-text bg-text-transparent bg-gradient-to-r from-yellow-500 to-yellow-600 font-extrabold tracking-wider">
-            FitLife Gym
+            Academia
           </h1>
 
           <p className="text-gray-400 mt-4 leading-relaxed">
@@ -65,19 +65,19 @@ export const Footer = () => {
           <div className="flex mt-4 space-x-4">
             <a
               href="#"
-              className="p-3 bg-gray-700 rounded-full hover:bg-blue-700 transition"
+              className="p-3 bg-gray-700 rounded-full hover:bg-yellow-500 transition"
             >
               <FaFacebookF className="w-6 h-6" />
             </a>
             <a
               href="#"
-              className="p-3 bg-gray-700 rounded-full hover:bg-blue-700 transition"
+              className="p-3 bg-gray-700 rounded-full hover:bg-yellow-500 transition"
             >
               <FaInstagram className="w-6 h-6" />
             </a>
             <a
               href="#"
-              className="p-3 bg-gray-700 rounded-full hover:bg-blue-700 transition"
+              className="p-3 bg-gray-700 rounded-full hover:bg-yellow-500 transition"
             >
               <FaTiktok className="w-6 h-6" />
             </a>
