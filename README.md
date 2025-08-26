@@ -1,12 +1,32 @@
-# React + Vite
+# 🏋️ Academia
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Um projeto moderno desenvolvido com **React 19**, **TailwindCSS 4**, **Framer Motion** e **Lucide Icons** para criar uma interface responsiva, fluida e elegante voltada para academias e treinos.  
 
-Currently, two official plugins are available:
+## 🚀 Tecnologias Utilizadas
+- ⚛️ [React 19](https://react.dev/)  
+- 🎨 [TailwindCSS 4](https://tailwindcss.com/)  
+- 🎬 [Framer Motion](https://www.framer.com/motion/)  
+- 🖼️ [Lucide React](https://lucide.dev/)  
+- 🔤 [React Icons](https://react-icons.github.io/react-icons/)  
+- 📜 [React Scroll](https://www.npmjs.com/package/react-scroll)  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## Expanding the ESLint configuration
+https://github.com/user-attachments/assets/cb5a841d-eaa5-4eec-bea2-f7d499abe25a
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+## ⚡ Funcionalidades
+- Layout responsivo e otimizado  
+- Animações suaves com Framer Motion  
+- Ícones modernos e personalizáveis  
+- Navegação fluida com scroll animado  
+
+## 📂 Estrutura do Projeto
+```bash
+academia/
+ ├── src/
+ │   ├── components/   # Componentes reutilizáveis
+ │   ├── pages/        # Páginas principais
+ │   ├── assets/       # Imagens e ícones
+ │   └── App.jsx       # Arquivo principal
+ ├── package.json
+ └── README.md
